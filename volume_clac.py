@@ -22,3 +22,4 @@ else  :
 
 print("Total length:", total_length)
 print("Charge:", charge)
+print("git test")
